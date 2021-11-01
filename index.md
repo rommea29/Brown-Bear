@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Grouped animals</title>
+        <style>
+            p {
+                font-family: sans-serif;
+            }
+            
+            img {
+                max-width: 150px;
+            }
+            
+            h1 {
+                font-family: fantasy;
+                border-bottom: 1px solid rgb(230, 230, 230);
+                padding: 3px;
+            }
+            
+            h1:hover {
+                background-color: rgb(248, 255, 199);
+            }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Animal group names</h1>
+        
+        <p>For many species of animals, there are names that we use to refer to a group of them - like a flock of birds. Here are a few you might not know.</p>
+        
+        <h2>A skulk of foxes</h2>
 
-You can use the [editor on GitHub](https://github.com/rommea29/rommea.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rommea29/rommea.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <p>Also called a "leash."</p>
+        
+        <img src="https://www.kasandbox.org/programming-images/animals/fox.png">
+        <img src="https://www.kasandbox.org/programming-images/animals/fox.png">
+        
+        <h2>A clowder of cats</h2>
+        
+        <p>Also called a "pounce", "glaring", "kindle", or "clutter."</p>
+        
+        <img src="https://www.kasandbox.org/programming-images/animals/cat.png">
+        <img src="https://www.kasandbox.org/programming-images/animals/cat.png">
+        
+        <p>
+        <a href="http://en.wikipedia.org/wiki/List_of_animal_names">Learn more on Wikipedia</a>
+        </p>
+    </body>
+</html>
